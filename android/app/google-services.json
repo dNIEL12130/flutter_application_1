@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547813728310",
+    "project_id": "flutter-danielmovil",
+    "storage_bucket": "flutter-danielmovil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547813728310:android:add172f31de949139bf897",
+        "android_client_info": {
+          "package_name": "com.example.daniel_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JhnPxqAKF7KpZSGA1UKkaafZbBE3Z5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547813728310:android:7708349ee7a47f9b9bf897",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JhnPxqAKF7KpZSGA1UKkaafZbBE3Z5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
